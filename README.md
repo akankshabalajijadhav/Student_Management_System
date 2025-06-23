@@ -23,4 +23,24 @@ Backend
 |-singin.php
 |-login.php
 
+Home Page:
+![image](https://github.com/user-attachments/assets/d466e25f-3a55-4cb0-83f7-e77805125aee)
+
+About As Page:
+![image](https://github.com/user-attachments/assets/c3a65b31-ecd1-4195-8fc3-9005b876ed16)
+
+Contact As page:
+![image](https://github.com/user-attachments/assets/1d6423e9-ace5-410b-9eea-2dfc29217364)
+
+Sign Up Page:
+![image](https://github.com/user-attachments/assets/efe7b0c7-0815-45fd-94c3-929bc8c37bd8)
+Login Page:
+![image](https://github.com/user-attachments/assets/b98af35e-1d6f-4620-b890-6d44e7a39866)
+
+
+
+
+
+
+
 
