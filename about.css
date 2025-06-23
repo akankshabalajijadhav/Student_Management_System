@@ -1,0 +1,46 @@
+.navbar
+{
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 20px;
+    margin-right: 10px;
+    
+}
+.header
+{
+    height: 100px;
+    width:100%;
+    border:2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+
+}
+
+.main
+{
+    height: 570px;
+    width:100%;
+    border:2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+     background-image: url("background3.jpg");
+     background-size: cover;
+    
+}
+
+.footer
+{
+    height: 50px;
+    width:100%;
+    border:2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+background-color: cadetblue;
+text-align: center;
+}
+#para{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+     color:white;
+    
+    
+
+}
